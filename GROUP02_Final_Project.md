@@ -4,7 +4,7 @@
 ## Contents
 - [Introduction](#Introduction)
 - [OMICS](#OMICS)
-- [Deep Leaning](#Deep-Leaning)
+- [Deep Learning](#Deep-Learning)
   * [ANNs](#ANNs)
   * [Deep Learning Methods](#DL-Mehods)
   * [Applications](#Applications)
@@ -27,7 +27,7 @@ OMICS...
 
 ---
 
-## Deep Leanrning
+## Deep Learning
 
 Deep Learning...
 
